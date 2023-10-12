@@ -1,6 +1,6 @@
-# Loan Approval Classification
+**Loan Approval Classification**
 
-Hi everyone... Here is a simple demonstartion of Classification problem using Machine Learning.
+Here is a simple project which demonstratesthe use of Machine Learning in Loan Eligibility Prediction.
 
 **Dataset can be found [here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset).**
 
